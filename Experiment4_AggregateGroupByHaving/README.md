@@ -168,6 +168,7 @@ WHERE
 **Question 8**
 ---
 -- 
+![Screenshot 2025-04-29 175550](https://github.com/user-attachments/assets/0514d7e9-bbb2-43fe-93b7-28a961c159e7)
 
 ```sql
 --
@@ -183,9 +184,12 @@ HAVING
 ```
 
 **Output:**
+
 ![Screenshot 2025-04-29 175604](https://github.com/user-attachments/assets/0ea3f7f9-546b-4de5-b9e3-3734fc39d3ac)
 
 **Question 9**
+
+<img width="758" height="393" alt="image" src="https://github.com/user-attachments/assets/a632b8c4-9206-4a69-a7cf-0f92432bdc2a" />
 
 ---
 -- 
