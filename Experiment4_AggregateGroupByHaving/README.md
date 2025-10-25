@@ -186,7 +186,6 @@ HAVING
 ![Screenshot 2025-04-29 175604](https://github.com/user-attachments/assets/0ea3f7f9-546b-4de5-b9e3-3734fc39d3ac)
 
 **Question 9**
-![Screenshot 2025-04-29 175617](https://github.com/user-attachments/assets/e3f92782-bfda-4e27-bcf1-98351788a0be)
 
 ---
 -- 
