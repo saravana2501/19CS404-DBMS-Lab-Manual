@@ -168,7 +168,6 @@ WHERE
 **Question 8**
 ---
 -- 
-![Screenshot 2025-04-29 175550](https://github.com/user-attachments/assets/0514d7e9-bbb2-43fe-93b7-28a961c159e7)
 
 ```sql
 --
